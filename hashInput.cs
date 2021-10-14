@@ -1,5 +1,5 @@
 using System;
-using System.Security.Cryptography; // only has Shake algorithms
+using System.Security.Cryptography;
 using System.Text;
 
 namespace HashAlgs
